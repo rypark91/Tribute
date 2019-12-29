@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: Lato;
+}
+#main {
+  background-color: #e6e8e6;
+  border-radius: .5%;
+}
+#pic {
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+ul{
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 150px
+
+}
+li {
+  text-align: left;
+  line-height: 1.5;
+}
